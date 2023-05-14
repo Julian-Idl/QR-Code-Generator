@@ -43,3 +43,11 @@ Simple Yet Powerful QR Code Generator
 <p align = "center"><img src = "./assets/images/TextPreview.png" height = 300 width = 450 alt = "AITranscriber Snapshot v1"></p>
 
 **Click [Here](http://qr-code-generator.julianidl.repl.co/) For Live Demo**
+
+## Note ✏️
+
+- Feel free to contact me in my  [![My Website](https://img.shields.io/website?down_color=Red&down_message=Offline&style=for-the-badge&up_color=Green&up_message=Online&url=https%3A%2F%2Fjulian-idl.codes)](https://julian-idl.codes)
+
+## Author
+
+Made with ♥ by [Julian-Idl](julian-idl.codes)
