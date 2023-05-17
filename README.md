@@ -50,4 +50,4 @@ Simple Yet Powerful QR Code Generator
 
 ## Author
 
-Made with ♥ by [Julian-Idl](julian-idl.codes)
+Made with ♥ by [`Julian-Idl`](https://julian-idl.codes)
