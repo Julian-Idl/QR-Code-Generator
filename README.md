@@ -1,4 +1,4 @@
-## QR Code Generator
+# QR Code Generator
 
 <p align = "center"><img src = "./assets/images/qr-img-1.png" height = 300 alt = "Wallet Icon"></p>
 
@@ -6,7 +6,7 @@ Simple Yet Powerful QR Code Generator
 
 
 
-## Set-Up ⚒️
+# Set-Up ⚒️
 
 <p align = "center"><img src = "./assets/images/istockphoto-615991428-612x612.jpg" height = 300 alt = "SetUp Icon"></p>
 
@@ -29,7 +29,7 @@ Simple Yet Powerful QR Code Generator
 
 - To stop the application, press `CTRL + C` in your terminal / command prompt
 
-## Demo 👇
+# Demo 👇
 
 **v.0.0.1**
 
@@ -44,10 +44,10 @@ Simple Yet Powerful QR Code Generator
 
 **Click [Here](http://qr-code-generator.julianidl.repl.co/) For Live Demo**
 
-## Note ✏️
+# Note ✏️
 
 - Feel free to contact me in my  [![My Website](https://img.shields.io/website?down_color=Red&down_message=Offline&style=for-the-badge&up_color=Green&up_message=Online&url=https%3A%2F%2Fjulian-idl.codes)](https://julian-idl.codes)
 
-## Author
+# Author
 
 Made with ♥ by [`Julian-Idl`](https://julian-idl.codes)
